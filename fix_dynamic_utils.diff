@@ -1,0 +1,6 @@
+27,28c27,28
+< from huggingface_hub import hf_hub_download as cached_download
+< from huggingface_hub import hf_hub_download, model_info
+---
+>
+> from huggingface_hub import cached_download, hf_hub_download, model_info

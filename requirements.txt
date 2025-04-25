@@ -21,9 +21,9 @@ xformers>=0.0.20
 streamlit-keyup==0.2.0
 lpips
 clean-fid
-peft
+peft==0.13.2
 dominate
 diffusers==0.25.1
 gradio==3.43.1
-
+accelerate
 vision_aided_loss
